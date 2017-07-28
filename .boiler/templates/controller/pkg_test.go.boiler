@@ -1,0 +1,9 @@
+package {{.name}}_test
+
+import (
+	"testing"
+)
+
+func TestController( t *testing.T ) {
+
+}
